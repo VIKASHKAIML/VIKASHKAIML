@@ -29,17 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIKASHKUSHWAHA121&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASHKUSHWAHA121&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vikash-kushwaha-a6a873243">
